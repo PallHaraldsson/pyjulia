@@ -1,7 +1,7 @@
 # Yes python packaging sucks. 
 # I hope that a makefile
 # will help everyone to update the pakage.
-# don't foret to bump the version number in setup.py
+# don't forget to bump the version number in setup.py
 
 .PHONY: dist
 
