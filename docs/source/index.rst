@@ -3,8 +3,11 @@ Welcome to PyJulia’s documentation!
 
 |github-action|
 
-> [!CAUTION]
-> Ongoing development of the Python/Julia interface has transitioned to [PythonCall.jl/juliacall](https://github.com/JuliaPy/PythonCall.jl), please consider using that package instead.
+caution::
+
+   Ongoing development of the Python/Julia interface has transitioned to
+   `PythonCall.jl/juliacall <https://github.com/JuliaPy/PythonCall.jl>`_,
+   please consider using that package instead.
 
 Experimenting with developing a better interface to
 `Julia language <https://julialang.org/>`_ that works with
